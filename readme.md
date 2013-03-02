@@ -1,5 +1,5 @@
 # Protostorm
-Simple Guard setup for small client-side test sites or projects.
+Simple Guard setup for small static test sites or projects.
 
 ### Usage:
 - Git Clone Protostorm to your folder.
