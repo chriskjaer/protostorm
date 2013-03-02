@@ -1,0 +1,6 @@
+# Ignore public compiled content
+/public/*.css
+/public/*.html
+
+# Ignore Sass' cache
+/.sass-cache

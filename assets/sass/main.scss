@@ -1,0 +1,37 @@
+//
+// INDEX CSS FILE
+//
+// All SCSS files gets imported here
+// -----------------------------------------------------------------------------
+
+// Base 
+// ---------------------------------------------
+@import 'base/variables';
+@import 'base/colors';
+@import 'base/typography'; 
+
+// Libraries
+// ---------------------------------------------
+@import 'sass-bootstrap/lib/bootstrap';
+@import 'sass-bootstrap/lib/responsive';
+@import 'font-awesome/sass/font-awesome.scss';
+
+
+
+// Layout
+// ---------------------------------------------
+@import 'layout/global'; 
+@import 'layout/l-header'; 
+@import 'layout/l-content'; 
+@import 'layout/l-footer'; 
+ 
+
+// Modules
+// ---------------------------------------------
+@import 'modules/m-header';
+@import 'modules/m-content';
+@import 'modules/m-footer'; 
+@import 'modules/sticky-footer'; 
+
+// States
+// ---------------------------------------------
