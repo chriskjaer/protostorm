@@ -18,6 +18,6 @@ So this simple setup makes my life easier when I have to write simple clickable 
 ### Other Awesome Projects
 I use this setup for really small stuff, if you're looking for something kinda like this that have everything and the kitchen sink. Checkout these awesome sites:
 
-http://yeoman.io/
-http://brunch.io/
-http://middlemanapp.com/
+- http://yeoman.io/
+- http://brunch.io/
+- http://middlemanapp.com/
